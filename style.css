@@ -9,6 +9,10 @@ body {
     margin: 0;
 }
 
+.image-lago{
+    background-image: url("/img/parqueamb.jpg");
+    position: absolute;
+}
 button {
     background-color: #97031c;
     color: white;

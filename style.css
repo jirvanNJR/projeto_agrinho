@@ -1,7 +1,12 @@
+@font-face {
+    font-family: 'Stardew';
+    src: url('Stardew\ Valley\ ALL\ CAPS.ttf') format('truetype');
+}
+
 body {
     background-color: #15002c;
     color: rgb(29, 250, 0);
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: 'Stardew', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
